@@ -26,7 +26,7 @@ const ContactPaper = () => {
                     <Typography className={classes.about_link_typo}>
 
                         <Link 
-                        href="https://linkedin.com/in/valhb"
+                        href="https://linkedin.com"
                         style={{flexGrow:1}} 
                         className={classes.about_link}>
                             LinkedIn
@@ -41,10 +41,10 @@ const ContactPaper = () => {
                     <Typography className={classes.about_link_typo}>
 
                         <Link 
-                        href="https://gitlab.com/ValentinLHB"
+                        href="https://github.com/duranreyes"
                         style={{flexGrow:1}} 
                         className={classes.about_link}>
-                            GitLab
+                            Github
                         </Link>
 
                     </Typography>
